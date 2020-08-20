@@ -34,11 +34,13 @@ header nav {
 
 header nav ul {
     list-style-type: none;
+    color: #ffffff;
 }
 
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
 }
 
 a {
