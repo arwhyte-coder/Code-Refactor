@@ -1,4 +1,4 @@
-# Home-Work-Week-1
+# Code Refactor
 
 # HTML notes
 cleaned up the html file by changing div tags to section tags
